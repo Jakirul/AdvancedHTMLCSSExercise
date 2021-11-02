@@ -41,9 +41,15 @@ h1:hover {
     color: red;
 }
 
-img {
+
+.img1 {
     margin-top: 20px;
-    width: 80%;
+    width: 40%;
+    height: 50%;
+}
+.img2 {
+    margin-top: 20px;
+    width: 60%;
     height: 50%;
 
 }
